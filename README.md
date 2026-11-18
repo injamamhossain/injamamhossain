@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Injamam Hossain Niloy</h1>
-<h3 align="center">Cyber Security & AI/ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://shields.io" alt="Cyber Security" />
-  <img src="https://shields.io" alt="AI & ML" />
-  <img src="https://shields.io" alt="BSPICC" />
-</p>
+# Hi 👋, I'm Injamam Hossain Niloy
+### 🛡️ Cyber Security & AI/ML Enthusiast | 🎓 BSPI | 💻 BSPICC Member
+
+</div>
 
 ---
 
@@ -13,36 +11,23 @@
 
 I'm **Injamam Hossain Niloy**, passionate about **Cyber Security**, **Artificial Intelligence (AI)**, and **Machine Learning (ML)**.
 
-- 🎓 Diploma in Computer Engineering at **Bangladesh Sweden Polytechnic Institute (BSPI)**
-- 💻 Member at **BSPI Computer Club (BSPICC)**
-- 🛡️ Exploring: **Cyber Security, Ethical Hacking, Network Security & Linux**
-- 🤖 Learning: **Python, Machine Learning & AI-driven Security**
-- ⚡ Passionate about securing systems and building smart tech solutions
+- 🎓 **Education:** Diploma in Computer Engineering at **Bangladesh Sweden Polytechnic Institute (BSPI)**
+- 💻 **Community:** Active Member at **BSPI Computer Club (BSPICC)**
+- 🛡️ **Cyber Security:** Exploring Ethical Hacking, Network Security & Linux
+- 🤖 **AI & ML:** Learning Python, Machine Learning & AI-driven Security
+- ⚡ **Goal:** Securing digital systems and building smart real-world tech solutions
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Focus Areas
 
-**Cyber Security & OS**
-<p align="left">
-  <img src="https://skillicons.dev" alt="Cyber Security" />
-</p>
+- **🛡️ Cyber Security & OS:** `Kali Linux` • `Linux` • `Ubuntu` • `Bash` • `Network Security` • `Ethical Hacking`
+- **🤖 AI, ML & Programming:** `Python` • `C++` • `TensorFlow` • `PyTorch` • `MySQL` • `Data Science`
+- **🧰 Development Tools:** `Git` • `GitHub` • `VS Code` • `Docker`
 
-**AI, ML & Programming**
-<p align="left">
-  <img src="https://skillicons.dev" alt="AI & Programming" />
-</p>
+---
 
-**Development Tools**
-<p align="left">
-  <img src="https://skillicons.dev" alt="Tools" />
-</p>
+### 🌐 Connect With Me
 
-**Focus Areas**
-<p align="left">
-  <img src="https://shields.io" alt="Ethical Hacking" />
-  <img src="https://shields.io" alt="Network Security" />
-  <img src="https://shields.io" alt="AI & ML" />
-  <img src="https://shields.io" alt="Pentesting" />
-</p>
-ii
+- **GitHub:** [@injamamhossain](https://github.com)
+- **Email:** bspicc.member@gmail.com
