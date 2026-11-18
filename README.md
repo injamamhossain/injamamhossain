@@ -1,61 +1,48 @@
 <h1 align="center">Hi 👋, I'm Injamam Hossain Niloy</h1>
-<h3 align="center">AI & Machine Learning Enthusiast</h3>
+<h3 align="center">Cyber Security & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Cyber Security" />
+  <img src="https://shields.io" alt="AI & ML" />
+  <img src="https://shields.io" alt="BSPICC" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm **Injamam Hossain Niloy**, an **AI & Machine Learning Enthusiast** focused on **Python, Data Science, and Artificial Intelligence**.
+I'm **Injamam Hossain Niloy**, passionate about **Cyber Security**, **Artificial Intelligence (AI)**, and **Machine Learning (ML)**.
 
 - 🎓 Diploma in Computer Engineering at **Bangladesh Sweden Polytechnic Institute (BSPI)**
 - 💻 Member at **BSPI Computer Club (BSPICC)**
-- 🌱 Exploring: **Python, Machine Learning, Deep Learning & Generative AI**
-- ⚡ Passionate about turning data and ideas into smart real-world solutions
+- 🛡️ Exploring: **Cyber Security, Ethical Hacking, Network Security & Linux**
+- 🤖 Learning: **Python, Machine Learning & AI-driven Security**
+- ⚡ Passionate about securing systems and building smart tech solutions
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-**AI & Machine Learning**
+**Cyber Security & OS**
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev" alt="Cyber Security" />
 </p>
 
-**Tools**
+**AI, ML & Programming**
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev" alt="AI & Programming" />
 </p>
 
-**Currently Learning**
+**Development Tools**
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev" alt="Tools" />
 </p>
 
-**Also Exploring**
+**Focus Areas**
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Ethical Hacking" />
+  <img src="https://shields.io" alt="Network Security" />
+  <img src="https://shields.io" alt="AI & ML" />
+  <img src="https://shields.io" alt="Pentesting" />
 </p>
-
-
-<!--
-**injamamhossain/injamamhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ii
